@@ -5,4 +5,4 @@ p5.js is a library of JS, its basically for drawing on a web canvas.
 
 ## INDEX
 
-1. MouseTracer.js ([mousetracer.js](https://www.github.com/sohampod/CreativeCoding.p5.js/mousetracer.js)).
+1. MouseTracer.js ([mousetracer.js](https://github.com/sohampod/CreativeCoding.p5.js/blob/main/mousetracer.js)).
