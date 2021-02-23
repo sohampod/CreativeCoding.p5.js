@@ -8,3 +8,4 @@ p5.js is a library of JS, its basically for drawing on a web canvas.
 1. HelloWorld.js  ([helloworld.js](https://github.com/sohampod/CreativeCoding.p5.js/blob/main/helloworld.js)).
 2. MouseTracer.js ([mousetracer.js](https://github.com/sohampod/CreativeCoding.p5.js/blob/main/mousetracer.js)).
 3. Basic Shapes in p5.js ([basicShapesinp5.js](https://github.com/sohampod/CreativeCoding.p5.js/blob/main/basicShapesinp5.js)). 
+4. Solving Sol wall drawing 56 ([solvingsol56.js](https://github.com/sohampod/CreativeCoding.p5.js/blob/main/solvingsol56.js)).
