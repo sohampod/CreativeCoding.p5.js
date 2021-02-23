@@ -1,9 +1,12 @@
 function setup() {
     createCanvas(400, 400);
+    strokeWeight(1);
   }
   
   function draw() {
-    background(240);
+    background(0);
+    stroke(100);
+    
     line(0,0, 0,400);
     line(10,0, 10,400);
     line(20,0, 20,400);
@@ -47,7 +50,7 @@ function setup() {
     line(400,0, 400,400);
     
     
-    
+    stroke(200);
     line(200,0, 400,0);
     line(200,10, 400,10);
     line(200,20, 400,20);
@@ -71,7 +74,7 @@ function setup() {
     line(200,200, 400,200);
     
     
-    
+    stroke(250);
     line(0,210, 400,210);
     line(0,220, 400,220);
     line(0,230, 400,230);
