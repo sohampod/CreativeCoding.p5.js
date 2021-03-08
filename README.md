@@ -17,3 +17,4 @@ p5.js is a library of JS, its basically for drawing on a web canvas.
 10. 2D Loop example. ([Loop2dp5.js](https://github.com/sohampod/CreativeCoding.p5.js/blob/main/Loop2dp5.js)).
 11. Moire Pattern. ([moirePattern.js](https://github.com/sohampod/CreativeCoding.p5.js/blob/main/moirePattern.js)). 
 12. Random Moire pattern. ([randomMoirePattern.js](https://github.com/sohampod/CreativeCoding.p5.js/blob/main/randomMoirePattern.js)).
+13. Array in p5.js  ([arrayinp5.js](https://github.com/sohampod/CreativeCoding.p5.js/blob/main/arrayinp5.js)).
