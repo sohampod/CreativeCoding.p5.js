@@ -22,3 +22,4 @@ p5.js is a library of JS, its basically for drawing on a web canvas.
 15. Array Drawings in p5. ([arrayDrawing.js](https://github.com/sohampod/CreativeCoding.p5.js/blob/main/arrayDrawing.js)).
 16. Addition of Colors using color fn. ([additiveColor.js](https://github.com/sohampod/CreativeCoding.p5.js/blob/main/additiveColor.js)).
 17. Random Additive Color in p5. ([randomAdditiveColor.js](https://github.com/sohampod/CreativeCoding.p5.js/blob/main/randomAdditiveColor.js)).
+18. Color Mode HSB. ([colorModeHSB.js](https://github.com/sohampod/CreativeCoding.p5.js/blob/main/colorModeHSB.js)).
