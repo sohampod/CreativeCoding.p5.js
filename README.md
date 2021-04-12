@@ -26,3 +26,4 @@ p5.js is a library of JS, its basically for drawing on a web canvas.
 19. Color Spectrum Circle.  ([colorSpectrum.js](https://github.com/sohampod/CreativeCoding.p5.js/blob/main/colorSpectrum.js)).
 20. Color Palette Generator ([colorPaletteGenerator.js](https://github.com/sohampod/CreativeCoding.p5.js/blob/main/colorPaletteGenerator.js)).
 21. Rules based color palette generator ([rulesBasedcolorPalette.js](https://github.com/sohampod/CreativeCoding.p5.js/blob/main/rulesBasedcolorPalette.js)). 
+22. Gradient Generator ([gradientGenerator.js](https://github.com/sohampod/CreativeCoding.p5.js/blob/main/gradientGenerator.js)). 
